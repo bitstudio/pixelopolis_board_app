@@ -1,1 +1,1 @@
-# pixelopolis_board_app
+# pixelopolis_board
